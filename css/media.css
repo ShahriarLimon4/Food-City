@@ -1,0 +1,402 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /* nev str */
+    .menu ul li a {
+        font-size: 16px;
+        padding: 2px 0px !important;
+    }
+    /* nev end */
+    /* banner */
+    .bg1 {
+        height: 355px;
+    }
+    .discount {
+        font-size: 35px;
+    }
+    /* banner */
+     /* popilar menu */
+    .popular {
+        background-image: url("../img/bg22.jpg");
+        background-repeat: repeat;
+        height: 1285px;
+    }
+    .c-text {
+        margin: 35px 0 0 0;
+        font-size: 35px;
+    }
+    .c_p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .f-item {
+        margin-top: 15px;
+    }
+    .s-h1 {
+        margin: 10px 0 5px;
+        font-size: 35px;
+    }
+    .s_text {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    /* popilar menu */
+    
+    /* chicken str */
+    .chicken{
+        background-image: url("../img/bg33.jpg");
+        background-repeat:repeat;
+        height: 745px;
+    }
+    .w-text{
+        margin-top: 40px;
+        text-align: center;
+    }
+    .ch-h1 {
+        font-size: 35px;
+    }
+    .ch-text {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    /* chicken end */
+    /* statistics str */
+    .statistics {
+        background-position: 0;
+        height: 860px;
+    }
+    .c-border {
+        margin: 5px 45px;
+    }
+    /* statistics end */
+    /* chicken str */
+    .wt-2 {
+        margin: 50px 0 0 0px;
+    }
+    /* chicken end */
+    /* profile str */
+    .img-s {
+        margin: 20px 80px 0 75px;
+        width: 150px;
+        height: 160px;
+    }
+     .p-t{
+        margin: 15px 0 40px;
+        font-size: 25px;
+    }
+    /* profile end */
+    /* sub str */
+    .c-text {
+        margin-top: 20px;
+        font-size: 23px;
+    }
+    .c_p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .c_from {
+        margin: 25px 0 50px 2px;
+    }
+    .c_input {
+        height: 50px; 
+        width: 225px;
+    }
+    .c_s {
+        width: 80px;
+        margin: -52px 0 0 217px;
+        }
+    /* sub end */
+    }
+    
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+        /* nev str */
+        .menu ul li a {
+            font-size: 16px;
+            padding: 2px 0px !important;
+        }
+        /* nev end */
+        /* banner */
+        .bg1 {
+            height: 400px;
+        }
+        .discount {
+            font-size: 65px;
+        }
+        
+        /* banner */
+         /* popilar menu */
+        .popular {
+            background-image: url("../img/bg22.jpg");
+            background-repeat: repeat;
+            height: 1400px;
+        }
+        .c-text {
+            margin: 35px 0 0 0;
+            font-size: 55px;
+        }
+        .c_p {
+            line-height: 27px;
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        .f-item {
+            margin-top: 15px;
+        }
+        .s-h1 {
+            margin: 10px 0 5px;
+            font-size: 35px;
+        }
+        .s_text {
+            font-size: 16px;
+            line-height: 18px;
+        }
+        /* popilar menu */
+        
+        /* chicken str */
+        .chicken{
+            background-image: url("../img/bg33.jpg");
+            background-repeat:repeat;
+            height: 1030px;
+        }
+        .w-text{
+            margin-top: 40px;
+            text-align: center;
+        }
+        .ch-h1 {
+            font-size: 60px;
+        }
+        .ch-text {
+            font-size: 20px;
+            line-height: 25px;
+        }
+        /* chicken end */
+        /* statistics str */
+        .statistics {
+            background-position: 0;
+            height: 1000px;
+        }
+        .c-border {
+            margin: 18px 150px;
+        }
+        /* statistics end */
+        /* chicken str */
+        .wt-2 {
+            margin: 50px 0 0 0px;
+        }
+        /* chicken end */
+        /* profile str */
+        .img-s{
+            margin: 20px 80px 0 185px;
+            width: 150px;
+            height: 160px;
+        }
+         .p-t{
+            margin: 15px 0 40px;
+            font-size: 25px;
+        }
+        /* profile end */
+        /* sub str */
+        .s-text{
+            margin: 35px 0 0 0;
+            font-size: 40px;
+        }
+        .c_p {
+            line-height: 27px;
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        .c_from {
+            margin: 25px 0 50px 122px;
+        }
+        .c_input {
+            height: 50px; 
+            width: 225px;
+        }
+        .c_s {
+            width: 80px;
+            margin: -52px 0 0 217px;
+            }
+        /* sub end */
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* nev str */
+    .menu ul li a {
+        font-size: 20px;
+        padding: 4px 0px !important;
+    }
+    /* nev end */
+    /* banner */
+    .bg1 {
+        height: 500px;
+    }
+    
+    /* banner */
+    /* popilar menu */
+    .popular {
+        height: 600px;
+    }
+    .c-text {
+        margin-top: 50px;
+        font-size: 55px; 
+    }
+    .c_p {
+        font-size: 18px;
+    }
+    .s-h1 {
+        margin: 15px 0 5px;
+        font-size: 30px;
+    }
+    .s_text {
+        font-size: 17px;
+        line-height: 21px;
+    }
+    /* chicken str */
+    .chicken {
+        height: 580px;
+    }
+    .w-text {
+        margin: 190px 0 0 25px;
+    }
+    .ch-h1 {
+        font-size: 35px;
+    }
+    .ch-text {
+        font-size: 17px;
+    }
+    /* chicken end */
+    /* statistics str */
+    .statistics {
+        height: 500px;
+    }
+    .c-border {
+        margin: 20px 0px;
+    }
+    /* statistics end */
+    /* profile str */
+    .img-s {
+        margin: 25px 0 0 0px;
+        width: 150px;
+        height: 160px;
+    }
+    .p-t{
+        margin: 15px 0 40px;
+        font-size: 25px;
+    }
+    /* profile end */
+
+    /* sub str */
+    .c-text {
+        margin-top: 50px;
+        font-size: 35px;
+    }
+    .c_p {
+        font-size: 16px;
+    }
+    .c_from {
+        margin: 25px 0 100px 0;
+    }
+    /* sub end */
+    /* footer str */
+    .f-1 {
+        margin: 50px 0 30px;
+    }
+    .f-2 {
+        margin: 50px 0 30px;
+    }
+    .f_2 p a {
+        font-size: 15px;
+    }
+    /* footer end */
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+    /* nev str */
+    .menu ul li a {
+        font-size: 20px;
+        padding: 0 18px !important;
+    }
+    /* nev end */
+
+    /* banner */
+    .discount {
+        font-size: 82px;
+    }
+    .bg1 {
+        height: 500px;
+    }
+    /* banner */
+    /* popular menu */
+    .popular {
+        height: 680px;
+    }
+    .c-text {
+        margin-top: 62px;
+        margin-bottom: 5px;
+    }
+    .f-item {
+        margin-top: 30px;
+    }
+    .s-h1 {
+        margin: 20px 0 15px;
+        font-size: 35px;
+        font-weight: 700;
+    }
+    .s_text {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    /* popular menu */
+    /* chicken str */
+        .w-text {
+            margin: 250px 0 0 25px;
+        }
+        .ch-h1 {
+            font-size: 40px;
+        }
+        .ch-text {
+            font-size: 17px;
+        }
+    /* chicken end */
+    /* statistis str */
+    .c-border {
+        margin: 50px 40px;
+    }
+    /* statistis end */
+    /* profile str */
+    .img-s {
+        margin: 40px 0 0 15px;
+    }
+    .p-t{
+        margin: 15px 0 40px;
+    }
+    
+    /* profile end */
+    /* sub str */
+    .c-text {
+        margin-top: 100px;
+        font-size: 45px;
+    }
+    .c_from {
+        margin: 35px 0 180px 35px;
+    }
+    /* sub end */
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+}
